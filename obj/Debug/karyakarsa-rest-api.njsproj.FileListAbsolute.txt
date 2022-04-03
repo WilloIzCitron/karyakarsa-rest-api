@@ -1,0 +1,3 @@
+C:\Users\This PC\source\repos\karyakarsa-rest-api\karyakarsa-rest-api\obj\Debug\karyakarsa-rest-api.njsproj.AssemblyReference.cache
+C:\Users\This PC\source\repos\karyakarsa-rest-api\karyakarsa-rest-api\obj\Debug\karyakarsa-rest-api.njsproj.CoreCompileInputs.cache
+C:\Users\This PC\source\repos\karyakarsa-rest-api\karyakarsa-rest-api\bin\Microsoft.NodejsTools.WebRole.dll
