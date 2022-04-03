@@ -4,7 +4,7 @@ const app = express()
 const { glob } = require("glob")
 const { promisify } = require("util")
 const globAsync = promisify(glob)
-const port = 3000
+const port = process.env.PORT || 3000
 app.set("view engine", "ejs");
 app.use(express.static("public"));
 app.disable("x-powered-by");
