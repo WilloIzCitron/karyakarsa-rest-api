@@ -9,7 +9,7 @@ Hi, welcome to Karyakarsa REST API, the scraper of karyakarsa creator page
 ## Usage
 
  ```
- api.karyakarsa.willo.is-a.dev/karyakarsa-rest-api/mainapi/karyakarsa?name=nicdev
+ api.karyakarsa.willo.is-a.dev/mainapi/karyakarsa?name=nicdev
  ```
 
 ### Result
