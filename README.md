@@ -27,12 +27,6 @@ Hi, welcome to Karyakarsa REST API, the scraper of karyakarsa creator page
 }
 ```
 
-## Documentation
-
-GET karyakarsa
-
-```/mainapi/karyakarsa?name=string```
-
 ### License
 > :warning: THIS PROJECT ISN'T AFFILIATED WITH KARYAKARSA
 
