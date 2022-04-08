@@ -29,8 +29,8 @@ Hi, welcome to Karyakarsa REST API, the scraper of karyakarsa creator page
 
 ## Limitations
 
-### Has No Spaces/New Line
-Didnt planned for making has spaces/new line
+### Has No New Line
+Didnt planned for making has new line
 
 ## License
 > :warning: THIS PROJECT ISN'T AFFILIATED WITH KARYAKARSA
