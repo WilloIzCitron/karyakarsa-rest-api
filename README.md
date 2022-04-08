@@ -27,7 +27,12 @@ Hi, welcome to Karyakarsa REST API, the scraper of karyakarsa creator page
 }
 ```
 
-### License
+## Limitations
+
+### Has No Spaces/New Line
+Didnt planned for making has spaces/new line
+
+## License
 > :warning: THIS PROJECT ISN'T AFFILIATED WITH KARYAKARSA
 
 this project is unlicensed
